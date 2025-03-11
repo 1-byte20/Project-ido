@@ -1,9 +1,16 @@
 <script setup>
-import HomeView from './components/HomeView.vue';
-import NewSalon from './components/NewSalon.vue';
+import { RouterLink, RouterView } from 'vue-router';
+
 </script>
 
 <template>
-  <HomeView />
-  <NewSalon />
+ <div class="container">
+  <div class="row">
+    <nav>
+      <RouterLink class="btn btn-outline-success m-2" to="/">Szalonok</RouterLink>
+      <RouterLink class="btn btn-outline-warning m-2" to="/new">Új szalon</RouterLink>
+    </nav>
+    <RouterView/>
+  </div>
+ </div>
 </template>

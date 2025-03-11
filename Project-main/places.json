@@ -1,5 +1,5 @@
 {
-    "place":[
+    "places":[
         {
             "id": "1",
             "name": "Tattoos by Balázs",
@@ -7,7 +7,7 @@
             "healthcare": "Good",
             "rate": "*****"
         },
-
+    
         {
             "id": "2",
             "name": "Black Willow Tattoo",
@@ -15,7 +15,7 @@
             "healthcare": "Good",
             "rate": "*****"
         },
-
+    
         {
             "id": "3",
             "name": "Sun City Tattoo & Peircing",
@@ -23,7 +23,7 @@
             "healthcare": "Good",
             "rate": "*****"
         },
-
+    
         {
             "id": "4",
             "name": "Fonix tattoo",
@@ -31,7 +31,7 @@
             "healthcare": "Meh",
             "rate": "***"
         },
-
+    
         {
             "id": "5",
             "name": "Black Horse Tattoo",
@@ -39,7 +39,7 @@
             "healthcare": "Good",
             "rate": "*****"
         },
-
+    
         {
             "id": "6",
             "name": "Ink Journey",
@@ -47,7 +47,7 @@
             "healthcare": "Good",
             "rate": "***"
         },
-
+    
         {
             "id": "7",
             "name": "InkRoom ",
@@ -55,7 +55,7 @@
             "healthcare": "Good",
             "rate": "*****"
         },
-
+    
         {
             "id": "8",
             "name": " Ink Man",
