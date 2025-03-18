@@ -1,7 +1,7 @@
 <template>
     <h1>Új termék adatai</h1>
     <form @submit.prevent="savePlace()">
-        <table class="">
+        <table>
             <tr>
                 <td><h5>Szalon neve:</h5></td>
                 <td><input type="text" v-model="name" placeholder="pl.: Vean Tattoo"></td>

@@ -9,7 +9,7 @@
            </div>
            <div class="card-footer">
             <button class="btn btn-outline-info">Szerkesztés</button>
-            <button class="btn btn-outline-danger">Törlés</button>
+            <button class="btn btn-outline-danger" @click="deleteSalon(places.places.id)">Törlés</button>
             <button class="btn btn-outline-primary">Időpontfoglalás</button>
            </div>
           </div>
@@ -21,11 +21,11 @@
 import { ref, onMounted } from 'vue';
 import { usePlacesStore } from '../stores/counter';
 
-
 const places = usePlacesStore();
 
 onMounted(() => {
  places.loadPlaces()
+ places.deleteSalon()
 })
 </script>
 

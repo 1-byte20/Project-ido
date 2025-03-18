@@ -1,67 +1,74 @@
 {
-    "places":[
-        {
-            "id": "1",
-            "name": "Tattoos by Balázs",
-            "location": "Szeged",
-            "healthcare": "Good",
-            "rate": "*****"
-        },
-    
-        {
-            "id": "2",
-            "name": "Black Willow Tattoo",
-            "location": "Szeged",
-            "healthcare": "Good",
-            "rate": "*****"
-        },
-    
-        {
-            "id": "3",
-            "name": "Sun City Tattoo & Peircing",
-            "location": "Szeged",
-            "healthcare": "Good",
-            "rate": "*****"
-        },
-    
-        {
-            "id": "4",
-            "name": "Fonix tattoo",
-            "location": "Debrecen",
-            "healthcare": "Meh",
-            "rate": "***"
-        },
-    
-        {
-            "id": "5",
-            "name": "Black Horse Tattoo",
-            "location": "Debrecen",
-            "healthcare": "Good",
-            "rate": "*****"
-        },
-    
-        {
-            "id": "6",
-            "name": "Ink Journey",
-            "location": "Debrecen",
-            "healthcare": "Good",
-            "rate": "***"
-        },
-    
-        {
-            "id": "7",
-            "name": "InkRoom ",
-            "location": "Budapest",
-            "healthcare": "Good",
-            "rate": "*****"
-        },
-    
-        {
-            "id": "8",
-            "name": " Ink Man",
-            "location": "Budapest",
-            "healthcare": "Bad",
-            "rate": "*"
-        }
-    ]
+  "places": [
+    {
+      "id": "1",
+      "name": "Tattoos by Balázs",
+      "location": "Szeged",
+      "healthcare": "Good",
+      "rate": "*****"
+    },
+    {
+      "id": "2",
+      "name": "Black Willow Tattoo",
+      "location": "Szeged",
+      "healthcare": "Good",
+      "rate": "*****"
+    },
+    {
+      "id": "3",
+      "name": "Sun City Tattoo & Peircing",
+      "location": "Szeged",
+      "healthcare": "Good",
+      "rate": "*****"
+    },
+    {
+      "id": "4",
+      "name": "Fonix tattoo",
+      "location": "Debrecen",
+      "healthcare": "Meh",
+      "rate": "***"
+    },
+    {
+      "id": "5",
+      "name": "Black Horse Tattoo",
+      "location": "Debrecen",
+      "healthcare": "Good",
+      "rate": "*****"
+    },
+    {
+      "id": "6",
+      "name": "Ink Journey",
+      "location": "Debrecen",
+      "healthcare": "Good",
+      "rate": "***"
+    },
+    {
+      "id": "7",
+      "name": "InkRoom ",
+      "location": "Budapest",
+      "healthcare": "Good",
+      "rate": "*****"
+    },
+    {
+      "id": "8",
+      "name": " Ink Man",
+      "location": "Budapest",
+      "healthcare": "Bad",
+      "rate": "*"
+    },
+    {
+      "id": "c779",
+      "name": "Herold's Salon",
+      "location": "Kistelek",
+      "healthcare": "bad",
+      "rate": "**"
+    },
+    {
+      "id": "4185",
+      "name": "BillBoe's Salon",
+      "location": "Miskolc",
+      "healthcare": "meh",
+      "rate": "***"
+    }
+  ]
 }
